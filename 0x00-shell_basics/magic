@@ -1,2 +1,2 @@
 #!/bin/bash
-file  --mimej-type -m  school.mgc *
+file  --mime-type -m  school.mgc *
