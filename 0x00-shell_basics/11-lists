@@ -1,5 +1,2 @@
 #!/bin/bash
-#ls -lan {.,..,/boot}
-ls -lna .
-ls -lna ..
-ls -la /boot
+ls -al {.,..,/boot}
