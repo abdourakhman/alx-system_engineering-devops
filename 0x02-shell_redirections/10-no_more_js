@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Rl | egrep "*\.js" | rm 
+ls -R | grep "\.js$" | xargs rm -rf
